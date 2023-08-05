@@ -1,0 +1,8 @@
+C:\Users\wesle\OneDrive\Documentos\estudos\EndWar\EndWar\bin\Debug\EndWar.exe.config
+C:\Users\wesle\OneDrive\Documentos\estudos\EndWar\EndWar\bin\Debug\EndWar.exe
+C:\Users\wesle\OneDrive\Documentos\estudos\EndWar\EndWar\bin\Debug\EndWar.pdb
+C:\Users\wesle\OneDrive\Documentos\estudos\EndWar\EndWar\obj\Debug\EndWar.csproj.AssemblyReference.cache
+C:\Users\wesle\OneDrive\Documentos\estudos\EndWar\EndWar\obj\Debug\EndWar.csproj.SuggestedBindingRedirects.cache
+C:\Users\wesle\OneDrive\Documentos\estudos\EndWar\EndWar\obj\Debug\EndWar.csproj.CoreCompileInputs.cache
+C:\Users\wesle\OneDrive\Documentos\estudos\EndWar\EndWar\obj\Debug\EndWar.exe
+C:\Users\wesle\OneDrive\Documentos\estudos\EndWar\EndWar\obj\Debug\EndWar.pdb
